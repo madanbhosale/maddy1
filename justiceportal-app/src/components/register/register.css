@@ -1,0 +1,117 @@
+.container{
+    display: flex;
+}
+.left-side>img{
+    width: 425px;
+    height:600px;
+    /* background-color: rgb(7, 7, 7); */
+    
+} 
+    
+
+
+.register{
+    width: 425px;
+    height: 600px;
+    /* background: white; */
+    border :1px solid whitesmoke;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 1rem;
+    align-items: center;
+    text-align: center;
+}
+.left-side>img{
+    .lawimg{
+    width: 42vh;
+    margin-top: 74px;
+}
+}
+
+.register>h1{
+    font-size: 30px;
+}
+
+.register > input{
+    border-radius: 8px;
+    border: 2px solid whitesmoke;
+    outline: none;
+    color: black;
+    margin: 10px;
+    width: 90%;
+    font-size: 1.10rem;
+}
+
+.register > .button{
+    position: center;
+    background-color: rgb(61, 161, 211);
+    /* border: 1px solid  rgb(14, 107, 220) ; */
+    color: white;
+    font-size: 1.25rem;
+    padding: 15px;
+    
+    margin:30px;
+    border-radius: 10px;
+    outline:none;
+    cursor:pointer;
+    
+    
+
+
+}
+.log{
+    text-decoration: none;
+}
+.register>p{
+   color: rgba(198, 190, 190, 0.8);
+}
+
+.total {
+    display: flex;
+    justify-content: space-around;
+    
+   
+    
+  }
+   .logo1{
+    background-color: rgb(247, 252, 255);
+    border: 1px solid  rgb(1, 16, 34) ;
+    color: rgb(252, 249, 249);
+    font-size: 0.85rem;
+    
+    padding-bottom: 0px;
+    width: 165px;
+    font-weight: bold;
+    height: 40px;
+    background-color: rgb(61, 161, 211);
+     /* margin-left: 30px; */
+    margin-top: 20px; 
+    /* margin:20px; */
+    border-radius: 10px;
+    outline:none;
+     cursor:pointer;
+    
+  }
+
+  .logo2{
+    background-color: rgb(61, 161, 211);
+    border: 1px solid  rgb(16, 17, 17) ;
+    color: rgb(248, 240, 240);
+    font-size: 0.85rem;
+    
+    /* padding: 10px; */
+    width: 165px;
+    height: 40px;
+    font-weight: bolder;
+    /* margin-right: 10px; */
+    margin-top: 20px;
+    border-radius: 10px;
+    outline:none;
+    cursor:pointer;
+  }  
+  
+  /* .button-container>.logo1>img{
+    width:20px ;
+    height: 20px;
+  }  */
+
+  
